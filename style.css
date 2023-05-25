@@ -1,0 +1,35 @@
+body{
+background-position:center ;
+background-size: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 15px;
+color: white;
+
+}
+.link{
+    background: antiquewhite;
+    border-radius: 10px;
+    font-size: 20px;
+    color: antiquewhite;
+    padding: 5px;
+    margin: 10px;
+    width: 350px;
+    text-align: left;
+
+}
+.link:hover{
+    padding: 10px;
+    background-color: #b08bf0;
+    color: white;
+}
+a{
+    color: black;
+}
+
+
+
+
